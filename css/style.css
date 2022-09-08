@@ -38,8 +38,8 @@ div{
   background-color: #ff0000;
   text-align: right;
   margin-left: 50px;
-  border-bottom: 2px;
-  border-left: 5px;
+  border-bottom: 2px #ffffff solid;
+  border-left: 5px #ffffff solid;
 }
 .blue{
   background-color: #0000ff;
